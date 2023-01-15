@@ -1,6 +1,6 @@
 # SvelteKit base
 
-SvelteKit base repository with support for tailwind and mdsvex.
+SvelteKit base repository with support for tailwind and mdsvex (pre SvelteKit 1.0).
 
 ## Run locally
 
